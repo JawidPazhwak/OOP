@@ -1,0 +1,6 @@
+public class TestBox{
+    public static void main(String [] args){
+        class DesignBox = new box();
+        System.out.println(box());
+    }
+}
