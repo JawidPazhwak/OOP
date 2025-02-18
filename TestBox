@@ -1,6 +1,8 @@
 public class TestBox{
     public static void main(String [] args){
-        class DesignBox = new box();
-        System.out.println(box());
+         DesignBox box = new DesignBox();
+        System.out.println(box.length);
+        System.out.println(box.width);
+        System.out.println(box.height);
     }
 }
